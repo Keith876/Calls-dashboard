@@ -1,6 +1,7 @@
 # Call Centre Dashboard
 ### Project Overview
-An Excel dashboard that summarises the calls a call center received.
+An Excel dashboard that summarises the call data that a call center receives according to channel, sentiments, and reasons for a call.
 ### Tools
--	Microsoft Excel-Data cleaning
+-	Microsoft Excel-Data visualization
 -	Python-Data analysis
+-	SQL-Data cleaning
